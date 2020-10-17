@@ -1,0 +1,18 @@
+.styling-property{
+  margin-top:80px;
+  width: 50%;
+  text-align: center;
+  border: 3px solid green;
+  padding: 10px;
+  margin-left:24%;
+}
+.style-content{
+background-color: green; /* Green */
+border: 1px solid greenyellow;
+color: white;
+padding: 14px 30px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
